@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1523624877 source:c:\users\07501920974\desktop\projeto ed2\src\struct.c
+
+1523642018 source:c:\users\07501920974\desktop\projeto ed2\main.c
+	"hdr/list.h"
+	"hdr/visual.h"
+	"hdr/control.h"
+	<string.h>
+
+1523624877 c:\users\07501920974\desktop\projeto ed2\src\struct.c
+
+1523538187 c:\users\07501920974\desktop\projeto ed2\hdr\tree.h
+	<stdlib.h>
+	"tools.h"
+	"visual.h"
+
+1521046241 c:\users\07501920974\desktop\projeto ed2\src\tree.c
+	"../hdr/tree.h"
+
+1523538059 source:c:\users\07501920974\desktop\projeto ed2\src\tree.c
+	"../hdr/tree.h"
+
+1523538125 c:\users\07501920974\desktop\projeto ed2\hdr\tools.h
+	<string.h>
+	"../src/struct.c"
+
+1523537947 source:c:\users\07501920974\desktop\projeto ed2\src\tools.c
+	"../hdr/tools.h"
+
+1523641161 source:c:\users\07501920974\desktop\projeto ed2\src\visual.c
+	"../hdr/visual.h"
+
+1521552176 c:\users\07501920974\desktop\projeto ed2\hdr\struct.h
+
+1523630387 c:\users\07501920974\desktop\projeto ed2\hdr\visual.h
+	<stdio.h>
+	"../src/struct.c"
+
+1523627057 c:\users\07501920974\desktop\projeto ed2\hdr\list.h
+	<stdlib.h>
+	"visual.h"
+
+1523640861 source:c:\users\07501920974\desktop\projeto ed2\src\list.c
+	"../hdr/list.h"
+
+1523641732 source:c:\users\07501920974\desktop\projeto ed2\src\control.c
+	"../hdr/control.h"
+
+1523629283 c:\users\07501920974\desktop\projeto ed2\hdr\control.h
+	"list.h"
+	"visual.h"
+

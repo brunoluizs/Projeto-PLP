@@ -1,0 +1,13 @@
+0|N/D
+1|Portugues
+2|Matematica
+3|Fisica
+4|Quimica
+5|Biologia
+6|Filosofia
+7|Sociologia
+8|Historia
+9|Geografia
+10|Ingles
+11|Espanhol
+12|Artes
